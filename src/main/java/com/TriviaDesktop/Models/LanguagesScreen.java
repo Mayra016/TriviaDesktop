@@ -20,10 +20,10 @@ public class LanguagesScreen implements Screen {
 	
 	// Load images
 	private final Image platypus = new Image("/src/main/resources/Images/ornitorrincoVF.png");
-	private final Image spanish = new Image("/src/main/resources/Images/ornitorrincoVF.png");
-	private final Image german = new Image("/src/main/resources/Images/ornitorrincoVF.png");
-	private final Image english = new Image("/src/main/resources/Images/ornitorrincoVF.png");
-	private final Image portuguese = new Image("/src/main/resources/Images/ornitorrincoVF.png");
+	private final Image spanish = new Image("/src/main/resources/Images/ES.png");
+	private final Image german = new Image("/src/main/resources/Images/DE.png");
+	private final Image english = new Image("/src/main/resources/Images/EN.png");
+	private final Image portuguese = new Image("/src/main/resources/Images/PT.png");
 	
 	private final ImageView spainFlag = new ImageView(spanish);
 	private final ImageView germanyFlag = new ImageView(german);
